@@ -12,7 +12,8 @@ Features:
 
 
 How to run:
-- main folder:
+! main folder:
+- enter command: npm install
 - enter command: node api/api.js
 - Edit MySQL settings in the first lines (api.js)
 - npm run dev
