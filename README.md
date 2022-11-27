@@ -13,7 +13,6 @@ Features:
 
 How to run:
 - main folder:
-> enter commands below:
->>> node api/api.js
-- Edit MySQL settings in the first lines
->>> npm run dev
+- enter command: node api/api.js
+- Edit MySQL settings in the first lines (api.js)
+- npm run dev
